@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Author: Gensim Contributors
+# Author: Jason Fan <fann1993814@gmail.com>
 # Copyright (C) 2018 RaRe Technologies s.r.o.
+# Reference: Gensim Project - https://github.com/RaRe-Technologies/gensim
+# Note: The Project refers to Gensim, so it follows the Gensim's License.
 # Licensed under the GNU LGPL v2.1 - http://www.gnu.org/licenses/lgpl.html
 
 """

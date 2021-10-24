@@ -5,7 +5,10 @@
 # cython: embedsignature=True
 # coding: utf-8
 #
+# Author: Jason Fan <fann1993814@gmail.com>
 # Copyright (C) 2013 Radim Rehurek <me@radimrehurek.com>
+# Reference: Gensim Project - https://github.com/RaRe-Technologies/gensim
+# Note: The Project refers to Gensim, so it follows the Gensim's License.
 # Licensed under the GNU LGPL v2.1 - http://www.gnu.org/licenses/lgpl.html
 
 """Optimized cython functions for training :class:`~gensim.models.word2vec.Word2Vec` model."""

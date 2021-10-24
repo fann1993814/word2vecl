@@ -5,9 +5,12 @@
 # coding: utf-8
 #
 # shared type definitions for word2vec_inner
-# used by both word2vec_inner.pyx (automatically) and doc2vec_inner.pyx (by explicit cimport)
+# used by both word2vec_inner.pyx (automatically)
 #
+# Author: Jason Fan <fann1993814@gmail.com>
 # Copyright (C) 2013 Radim Rehurek <me@radimrehurek.com>
+# Reference: Gensim Project - https://github.com/RaRe-Technologies/gensim
+# Note: The Project refers to Gensim, so it follows the Gensim's License.
 # Licensed under the GNU LGPL v2.1 - http://www.gnu.org/licenses/lgpl.html
 
 cimport numpy as np
