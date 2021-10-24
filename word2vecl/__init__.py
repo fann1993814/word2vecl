@@ -1,0 +1,1 @@
+from .word2vecl import Word2VecL, FAST_VERSION  # noqa:F401
